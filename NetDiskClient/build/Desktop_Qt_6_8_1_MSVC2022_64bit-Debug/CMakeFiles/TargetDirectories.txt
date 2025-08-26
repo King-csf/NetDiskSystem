@@ -1,0 +1,8 @@
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/NetDiskClient.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/NetDiskClient_autogen_timestamp_deps.dir
+D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug/CMakeFiles/NetDiskClient_autogen.dir

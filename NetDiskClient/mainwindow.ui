@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>mainwindow</class>
+ <widget class="QWidget" name="mainwindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>916</width>
+    <height>580</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <widget class="QWidget" name="widget_2" native="true">
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QPushButton" name="uploadFile">
+        <property name="styleSheet">
+         <string notr="true">border: none;
+    background-color: rgb(85, 170, 255);
+    color: rgb(255, 255, 255);
+    min-height: 30px;
+    min-width: 80px;
+    border-radius: 15px; </string>
+        </property>
+        <property name="text">
+         <string>上传文件</string>
+        </property>
+        <property name="icon">
+         <iconset resource="resource.qrc">
+          <normaloff>:/new/prefix1/image/上传文件.png</normaloff>:/new/prefix1/image/上传文件.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="uploadDir">
+        <property name="styleSheet">
+         <string notr="true">border: none;
+    background-color: rgb(85, 170, 255);
+    color: rgb(255, 255, 255);
+    min-height: 30px;
+    min-width: 80px;
+    border-radius: 15px; </string>
+        </property>
+        <property name="text">
+         <string>上传文件夹</string>
+        </property>
+        <property name="icon">
+         <iconset resource="resource.qrc">
+          <normaloff>:/new/prefix1/image/上传文件.png</normaloff>:/new/prefix1/image/上传文件.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="createDir">
+        <property name="styleSheet">
+         <string notr="true">border: none;
+background-color: rgb(236, 244, 255);
+color: rgb(85, 85, 255);
+    min-height: 30px;
+    min-width: 80px;
+   border-top-left-radius: 15px;
+
+border-bottom-left-radius: 15px;</string>
+        </property>
+        <property name="text">
+         <string>新建文件夹</string>
+        </property>
+        <property name="icon">
+         <iconset resource="resource.qrc">
+          <normaloff>:/new/prefix1/image/新建文件夹.png</normaloff>:/new/prefix1/image/新建文件夹.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="cloudAdd">
+        <property name="styleSheet">
+         <string notr="true">border: none;
+background-color: rgb(236, 244, 255);
+color: rgb(85, 85, 255);
+    min-height: 30px;
+    min-width: 80px;
+   border-top-right-radius: 15px;
+
+border-bottom-right-radius: 15px;</string>
+        </property>
+        <property name="text">
+         <string>云添加</string>
+        </property>
+        <property name="icon">
+         <iconset resource="resource.qrc">
+          <normaloff>:/new/prefix1/image/云对象存储.png</normaloff>:/new/prefix1/image/云对象存储.png</iconset>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Orientation::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QPushButton" name="stopBtn">
+        <property name="text">
+         <string>暂停</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="continueBtn">
+        <property name="text">
+         <string>继续</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QWidget" name="widget" native="true">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Maximum" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <item>
+         <widget class="QListWidget" name="listWidget">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Maximum" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">width:100;</string>
+          </property>
+          <property name="lineWidth">
+           <number>1</number>
+          </property>
+          <item>
+           <property name="text">
+            <string>我的文件</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+           <property name="icon">
+            <iconset resource="resource.qrc">
+             <normaloff>:/new/prefix1/image/文件.png</normaloff>:/new/prefix1/image/文件.png</iconset>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>视频</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+           <property name="icon">
+            <iconset resource="resource.qrc">
+             <normaloff>:/new/prefix1/image/视频.png</normaloff>:/new/prefix1/image/视频.png</iconset>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>图片</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+           <property name="icon">
+            <iconset resource="resource.qrc">
+             <normaloff>:/new/prefix1/image/图片.png</normaloff>:/new/prefix1/image/图片.png</iconset>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>文档</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+           <property name="icon">
+            <iconset resource="resource.qrc">
+             <normaloff>:/new/prefix1/image/文档.png</normaloff>:/new/prefix1/image/文档.png</iconset>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>其他</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+           <property name="icon">
+            <iconset resource="resource.qrc">
+             <normaloff>:/new/prefix1/image/其他文件.png</normaloff>:/new/prefix1/image/其他文件.png</iconset>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>上传</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>下载</string>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>14</pointsize>
+            </font>
+           </property>
+          </item>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QWidget" name="widget_3" native="true">
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <widget class="QStackedWidget" name="stackedWidget">
+          <widget class="QWidget" name="page"/>
+          <widget class="QWidget" name="page_2"/>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>

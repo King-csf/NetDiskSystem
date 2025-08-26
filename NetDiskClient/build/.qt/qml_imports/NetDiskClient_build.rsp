@@ -1,0 +1,9 @@
+-rootPath
+D:/ANetDiskStorage/NetDiskClient
+-cmake-output
+-output-file
+D:/ANetDiskStorage/NetDiskClient/build/.qt/qml_imports/NetDiskClient_build.cmake
+-importPath
+D:/ANetDiskStorage/NetDiskClient/build
+-importPath
+D:/Qt/6.8.1/msvc2022_64/qml

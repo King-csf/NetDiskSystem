@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/其他文件.png</file>
+        <file>image/视频.png</file>
+        <file>image/图片.png</file>
+        <file>image/文档.png</file>
+        <file>image/文件.png</file>
+        <file>image/返回-copy.png</file>
+        <file>image/下载.png</file>
+        <file>image/删除.png</file>
+        <file>image/分享.png</file>
+        <file>image/last.png</file>
+        <file>image/next.png</file>
+        <file>image/播放.png</file>
+        <file>image/音量.png</file>
+        <file>image/暂停.png</file>
+        <file>image/正方形.png</file>
+        <file>image/上传文件.png</file>
+        <file>image/新建文件夹.png</file>
+        <file>image/云对象存储.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/NetDiskClient.dir
+D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/NetDiskClient_qmlimportscan.dir
+D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/INSTALL.dir
+D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/ALL_BUILD.dir
+D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/ZERO_CHECK.dir

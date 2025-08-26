@@ -1,0 +1,36 @@
+^D:\ANETDISKSTORAGE\NETDISKCLIENT\BUILD\CMAKEFILES\6A865527B608B4708D70AE51C7908BD2\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd D:\ANetDiskStorage\NetDiskClient\build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\ANETDISKSTORAGE\NETDISKCLIENT\BUILD\CMAKEFILES\C55CD996920014A894AD64B1497E0248\QRC_RESOURCE.CPP.RULE
+setlocal
+cd D:\ANetDiskStorage\NetDiskClient\build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E cmake_autorcc D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/NetDiskClient_autogen.dir/AutoRcc_resource_EWIEGA46WW_Info.json Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\ANETDISKSTORAGE\NETDISKCLIENT\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SD:/ANetDiskStorage/NetDiskClient -BD:/ANetDiskStorage/NetDiskClient/build --check-stamp-file D:/ANetDiskStorage/NetDiskClient/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

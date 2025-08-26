@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4d1f4cc9e1ed4517d68b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NetDiskClient",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NetDiskClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NetDiskClient-Debug-d8d85386bf0b9476d3c0.json",
+					"name" : "NetDiskClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NetDiskClient_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NetDiskClient_autogen-Debug-374a501e3160d33b91b6.json",
+					"name" : "NetDiskClient_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NetDiskClient_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NetDiskClient_autogen_timestamp_deps-Debug-3dce2d9edeae8edd0468.json",
+					"name" : "NetDiskClient_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ANetDiskStorage/NetDiskClient/build/Desktop_Qt_6_8_1_MSVC2022_64bit-Debug",
+		"source" : "D:/ANetDiskStorage/NetDiskClient"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

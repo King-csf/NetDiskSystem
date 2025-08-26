@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\loginwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\fileinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\createdirdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\transferwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\progressbardelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\filetrans.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\threadtask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\listwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\mytreeview.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\downloadtask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\cloudadddialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\generatesharelinkdlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\PreviewWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\EWIEGA46WW_Debug\qrc_resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\EWIEGA46WW_Release\qrc_resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\EWIEGA46WW_MinSizeRel\qrc_resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\EWIEGA46WW_RelWithDebInfo\qrc_resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\loginwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\fileinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\createdirdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\transferwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\progressbardelegate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\filetrans.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\threadtask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\listwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\mytreeview.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\downloadtask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\cloudadddialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\generatesharelinkdlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\PreviewWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_loginwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_createdirdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_transferwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_listwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_cloudadddialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Debug\ui_generatesharelinkdlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_loginwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_createdirdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_transferwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_listwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_cloudadddialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_Release\ui_generatesharelinkdlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_loginwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_createdirdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_transferwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_listwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_cloudadddialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_MinSizeRel\ui_generatesharelinkdlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_loginwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_createdirdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_transferwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_listwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_cloudadddialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\include_RelWithDebInfo\ui_generatesharelinkdlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ANetDiskStorage\NetDiskClient\build\CMakeFiles\6a865527b608b4708d70ae51c7908bd2\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\ANetDiskStorage\NetDiskClient\build\CMakeFiles\c55cd996920014a894ad64b1497e0248\qrc_resource.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\ANetDiskStorage\NetDiskClient\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\ANetDiskStorage\NetDiskClient\loginwidget.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\mainwindow.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\resource.qrc" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\createdirdialog.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\transferwidget.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\listwidget.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\cloudadddialog.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\generatesharelinkdlg.ui" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\autouic_Debug.stamp" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\autouic_Release.stamp" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\ANetDiskStorage\NetDiskClient\build\NetDiskClient_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9AEB9725-6999-30B5-8847-0DC3DD134C51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{47B03B73-704B-3372-9E3D-86F6DCE26FEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BCEB545E-D9F7-3717-B7DF-6AEAB9617A9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
